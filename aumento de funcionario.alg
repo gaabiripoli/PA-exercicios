@@ -1,6 +1,6 @@
 Algoritmo "aumento de funcioanrio"
 Disciplina : [PA] 
-Professor :cinia pinho 
+Professor : cintia pinho 
 Descrição : calculado o imposto de renda (função) 
 Autor(a) : Gabriela Ripoli 
 Dados atuais : 28/09/2021 
